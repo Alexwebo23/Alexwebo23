@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ Oswaldo Blanco, you can call me Oswald or Alex
 - 👀 I’m interested in ...technology and creating new tools to make our life easier
 - 🌱 I’m currently learning ...coding 
-- 💞️ I’m looking to collaborate on ...anything that makes me grow intelectually, someything that keeps me busy
+- 💞️ I’m looking to collaborate on ...anything that makes me grow intelectually, something that keeps me busy
 - 📫 How to reach me ...Alexwebo23@gmail.com
 
 <!---
